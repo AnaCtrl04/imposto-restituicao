@@ -1,7 +1,4 @@
-/**
- * SINGLETON: carrega uma vez por ano-calendário as bases e limites.
- * Em produção, poderia ler de BD/arquivo/serviço.
- */
+
 
 type FaixaProgressiva = [number, number, number]; // [limite, aliquota, parcelaDeduzir]
 
